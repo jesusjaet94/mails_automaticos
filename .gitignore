@@ -1,0 +1,12 @@
+credenciales.txt
+destinatarios.txt
+enviados.txt
+presentacion.txt
+*.pdf
+*.bat
+
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
